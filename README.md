@@ -2,3 +2,6 @@
 Gra w wisielca
 
 Aby uruchomić, wystarczy kliknąć w plik index.html :)
+
+
+Autor: Aleksander Gacek
